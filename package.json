@@ -1,0 +1,30 @@
+{
+  "name": "neuraldemo",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "jss": "latest",
+    "material-ui": "next",
+    "prop-types": "latest",
+    "react-jss": "latest",
+    "next": "latest",
+    "react": "^16.0.0",
+    "redux-devtools-extension": "^2.13.2",
+    "react-dom": "^16.0.0",
+    "react-redux": "^5.0.1",
+    "redux": "^3.6.0",
+    "redux-thunk": "^2.1.0",
+    "synaptic": "^1.1.4"
+  },
+  "devDependencies": {
+    "@types/next": "^2.4.7",
+    "@types/react": "^16.0.36",
+    "@zeit/next-typescript": "0.0.8",
+    "typescript": "^2.7.1"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
+}
